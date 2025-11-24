@@ -85,5 +85,3 @@ Together, they propose a future in which humanoid robots are:
 
 ---
 
-You may specify your preferred open-source license here (e.g., MIT, Apache 2.0).
-
